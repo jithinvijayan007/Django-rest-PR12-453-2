@@ -10,7 +10,7 @@
                     };
                 }
             }
-        }, options);
+        }, options); 
         $element.select2(settings);
     };
 
