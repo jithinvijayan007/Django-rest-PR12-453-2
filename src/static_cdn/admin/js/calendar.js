@@ -13,7 +13,7 @@ depends on core.js for utility functions like removeChildren or quickElement
             gettext('February'),
             gettext('March'),
             gettext('April'),
-            gettext('May'),
+            gettext('May'), 
             gettext('June'),
             gettext('July'),
             gettext('August'),
