@@ -1,6 +1,6 @@
 (function($) {
     'use strict';
-    var init = function($element, options) {
+    var init = function($element, options) { 
         var settings = $.extend({
             ajax: {
                 data: function(params) {
